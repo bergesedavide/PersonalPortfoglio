@@ -10,7 +10,9 @@ export const Skills = () => {
         { name: 'JavaScript', level: 'Intermedio', color: 'bg-yellow-400' },
         { name: 'HTML/CSS', level: 'Avanzato', color: 'bg-orange-500' },
         { name: 'C#', level: 'Intermedio', color: 'bg-purple-500' },
-        { name: 'PHP', level: 'Base', color: 'bg-indigo-500' }
+        { name: 'PHP', level: 'Base', color: 'bg-indigo-500' },
+        { name: 'React', level: 'Base', color: 'bg-gray-500' },
+        { name: 'PHP', level: 'Base', color: 'bg-cyan-500' }
       ]
     },
     {
