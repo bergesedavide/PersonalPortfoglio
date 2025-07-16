@@ -12,7 +12,7 @@ export const Skills = () => {
         { name: 'C#', level: 'Intermedio', color: 'bg-purple-500' },
         { name: 'PHP', level: 'Base', color: 'bg-indigo-500' },
         { name: 'React', level: 'Base', color: 'bg-gray-500' },
-        { name: 'PHP', level: 'Base', color: 'bg-cyan-500' }
+        { name: 'TypeScript', level: 'Base', color: 'bg-cyan-500' }
       ]
     },
     {
