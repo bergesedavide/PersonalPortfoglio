@@ -30,9 +30,9 @@ export const Projects = () => {
         'Layout responsive',
         'Sezioni interattive'
       ],
-      github: null,
+      github: 'https://github.com/bergesedavide/PersonalPortfoglio',
       demo: null,
-      status: 'In corso',
+      status: 'Completato',
       icon: Zap
     }
   ];
