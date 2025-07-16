@@ -90,10 +90,6 @@ export const Footer = () => {
               <p className="text-background/60 text-sm">
                 © {currentYear} Davide Bergese. Tutti i diritti riservati.
               </p>
-              <p className="flex items-center text-background/60 text-sm">
-                Fatto con <Heart className="h-4 w-4 mx-1 text-red-400" /> 
-                e React + TypeScript
-              </p>
             </div>
           </div>
         </div>
